@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "frg3/VG0F0X+McBmj75LPEinPEPfvpLeT0ibaPZmyODa25zs0cj3nr3NNRUYoouclHuV3sFFHW3dkHDHMFr45A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
