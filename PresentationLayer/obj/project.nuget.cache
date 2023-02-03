@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JKg4p96oXTR1JcuUiXaRlA413iaU+hSc1Uq+XCKiqXIyiVyMkibXIqJ8lznjgTexQsOsAsW0DSKY31eJVYoBuQ==",
+  "dgSpecHash": "kfBpF6X9eTVOIV63hx4GysZEEr7Ei9j9DMY+m8m39qbk3fukSrlZQsVBVowccaQHYEWNu92lhP1Ul+BSyhKTdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\PresentationLayer\\PresentationLayer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\OZKAN-PC\\Desktop\\GithubProject\\PresentationLayer\\PresentationLayer.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

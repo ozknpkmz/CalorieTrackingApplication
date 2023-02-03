@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\PresentationLayer\\PresentationLayer.csproj": {}
+    "C:\\Users\\OZKAN-PC\\Desktop\\GithubProject\\PresentationLayer\\PresentationLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\PresentationLayer\\PresentationLayer.csproj": {
+    "C:\\Users\\OZKAN-PC\\Desktop\\GithubProject\\PresentationLayer\\PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\PresentationLayer\\PresentationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\OZKAN-PC\\Desktop\\GithubProject\\PresentationLayer\\PresentationLayer.csproj",
         "projectName": "PresentationLayer",
-        "projectPath": "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\PresentationLayer\\PresentationLayer.csproj",
-        "packagesPath": "C:\\Users\\Teknogenetik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\PresentationLayer\\obj\\",
+        "projectPath": "C:\\Users\\OZKAN-PC\\Desktop\\GithubProject\\PresentationLayer\\PresentationLayer.csproj",
+        "packagesPath": "C:\\Users\\OZKAN-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OZKAN-PC\\Desktop\\GithubProject\\PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Teknogenetik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OZKAN-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,24 +50,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.13, 6.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.13, 6.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.13, 6.0.13]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.13, 6.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -76,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

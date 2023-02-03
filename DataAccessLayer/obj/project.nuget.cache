@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JdaZplebhyvxyp5RSr08LQsfvnbAgaHWgT7nm4WSxPY+nugyWkMXK9GH04XpcXjKacQccZd3IVtSiyPS3rIqDA==",
+  "dgSpecHash": "vXraelpzH9tB23cwBAO6Cb7gy/ZORY3/zoKSS7wADCjikzKyd46WEdenxs7Nr3Uepe7m63p+krOt0l7LoMIw2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Teknogenetik\\Desktop\\VS PROJELERİ\\CalorieTrackingApplication\\DataAccessLayer\\DataAccessLayer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Teknogenetik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\OZKAN-PC\\Desktop\\GithubProject\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

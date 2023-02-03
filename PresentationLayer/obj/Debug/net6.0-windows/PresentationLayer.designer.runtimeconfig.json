@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Teknogenetik\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Teknogenetik\\.nuget\\packages"
+      "C:\\Users\\OZKAN-PC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\OZKAN-PC\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
